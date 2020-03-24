@@ -1,4 +1,4 @@
-# Be The Hero
+:rocket: # Be The Hero
 
 ### Dia 01 - Conhecendo a OmniStack
 
