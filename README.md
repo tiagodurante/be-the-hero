@@ -14,3 +14,10 @@
   * Ongs
   * Incidents
 * Sistema de login da Ong;
+
+### Dia 03 - Construindo a interface web
+
+* Iniciando projeto em ReactJS
+* Implementando telas (Profile, Logon, Register e NewIncident)
+* Integrando aplicação com o backend
+* Estilizando telas
