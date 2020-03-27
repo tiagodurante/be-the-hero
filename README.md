@@ -17,7 +17,16 @@
 
 ### Dia 03 - Construindo a interface web
 
-* Iniciando projeto em ReactJS
-* Implementando telas (Profile, Logon, Register e NewIncident)
-* Integrando aplicação com o backend
-* Estilizando telas
+* Iniciando projeto em ReactJS;
+* Implementando telas (Profile, Logon, Register e NewIncident);
+* Integrando aplicação com o backend;
+* Estilizando telas;
+* 
+### Dia 04 - Desenvolvendo o app mobile
+
+* Iniciando projeto com Expo (React Native);
+* Utilização do app Expo durante o desenvolvimento;
+* Criando tela de listagem dos casos e detalhes de um caso específico;
+* Buscando dados da api;
+* Estilizando telas;
+* Integrando app com whatsapp e e-mail; 
