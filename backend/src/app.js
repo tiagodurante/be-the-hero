@@ -1,5 +1,6 @@
 const express = require('express')
 const cors = require('cors')
+const {errors} = require('celebrate')
 const bodyParser = require('body-parser')
 const routes = require('./routes')
 const port = 3333
@@ -11,9 +12,9 @@ app.use(cors())
 app.use(bodyParser.urlencoded({ extended: false }))
 // parse application/json
 app.use(bodyParser.json())
+// celebrate errors
+app.use(errors())
 // routes
 app.use(routes)
 
-app.listen(port, () => {
-  console.log(`LISTEN ON => ${3333}`)
-})
+module.exports = app
